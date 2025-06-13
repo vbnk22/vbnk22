@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **React** and **TypeScript**  
 - 📫 Reach me at: **oleszek.patryk@wp.pl**
 
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vbnk22&show_icons=true&locale=en&layout=compact" alt="vbnk22" />
 </p>
