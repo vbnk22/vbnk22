@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
-<h3 align="center">First-semester Master’s student in Computer Science at Maria Curie-Skłodowska University</h3>
+<h3 align="center">Second-semester Master’s student in Computer Science at Maria Curie-Skłodowska University</h3>
 
 ---
 
